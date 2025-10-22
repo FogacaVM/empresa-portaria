@@ -1,0 +1,47 @@
+.conteudo {
+    display: flex;
+    padding: 5rem;
+    padding-left: 192px;
+    gap: 131px;
+    padding-top: 96px;
+}
+
+.texto-h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: "Dancing Script", cursive;
+}
+
+.container-alltext {
+    width: 700px;
+    height: 800px;
+}
+
+.container-onlytext {
+    padding-top: 54px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.text-padding {
+    padding-top: 28px;
+}
+
+.container-fotos{
+    width: 700px;
+    height: 800px;
+    border: 8px solid #25387C;
+    border-radius: 16px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+}
+
+.container-fotos img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 8px;
+}
+

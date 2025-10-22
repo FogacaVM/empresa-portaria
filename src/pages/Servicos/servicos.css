@@ -1,0 +1,29 @@
+.container-servicos {
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 88px;
+    gap: 136px;
+}
+
+.container-left{
+    padding-left: 191px;
+}
+
+.container-right {
+    padding-right: 188px;
+}
+
+.text-h2-servicos {
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-servicos {
+    padding-top: 43px;
+    font-weight: 500;
+}
+
